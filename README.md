@@ -1,2 +1,2 @@
 # about
-  Cytobloom is a startup from Baltimore Maryland
+ <a href = "https://eburnette1.github.io/cytobloom-site/"> Live Link </a>
